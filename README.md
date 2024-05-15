@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @DrownedInAPond
-- 👀 I’m interested in music 
+- 👀 I’m interested in music & programming
 - 🌱 I’m currently learning c# (soon will learn gdscript)
 - 💞️ I’m looking to collaborate on Games :3
-- 📫 How to reach me: dont.
+- 📫 How to reach me: https://www.tumblr.com/blog/twighlighttabby
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i am. but i wish i wasnt.
+- ⚡ Fun fact: I wanna make a game entirely in lolcode and no one can stop me.
 
 <!---
 DrownedInAPond/DrownedInAPond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

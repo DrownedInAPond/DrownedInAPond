@@ -2,7 +2,7 @@
 - 👀 I’m interested in music & programming
 - 🌱 I’m currently learning c# (soon will learn gdscript)
 - 💞️ I’m looking to collaborate on Games :3
-- 📫 How to reach me: https://www.tumblr.com/blog/twighlighttabby
+- 📫 How to reach me: abi@nyabiii.online
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I wanna make a game entirely in lolcode and no one can stop me.
 

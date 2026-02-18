@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DrownedInAPond
 - 👀 I’m interested in music & programming
-- 🌱 I’m currently learning c# (soon will learn gdscript)
+- 🌱 I use C#, GDscript, Rust and a little bit of haxe and dots of other languages. i want to get into rendering with C++ eventually.
 - 💞️ I’m looking to collaborate on Games :3
 - 📫 How to reach me: abi@nyabiii.online
 - 😄 Pronouns: she/her
